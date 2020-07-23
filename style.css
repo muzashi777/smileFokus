@@ -1,0 +1,40 @@
+body {
+  background-color: #f4f4f4;
+  font-size: 20px;
+}
+h1,
+h2 {
+  text-align: center;
+}
+
+.container {
+  margin: 60px auto;
+  width: 80%;
+}
+
+.container-box {
+  border: 1px solid gray;
+  padding: 30px;
+  width: 60%;
+  margin: 20px auto;
+}
+
+.form-box {
+  text-align: center;
+  margin: 20px;
+}
+label {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+button:hover {
+  color: green;
+}
+
+p {
+  text-indent: 10px;
+}
+span {
+  font-weight: bold;
+}
